@@ -1,7 +1,5 @@
-remote_theme: pages-themes/hacker@v0.2.0
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-github:
-  zip_url: http://example.com/download.zip
+theme: jekyll-theme-hacker
